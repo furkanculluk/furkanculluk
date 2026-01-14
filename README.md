@@ -28,13 +28,6 @@ Amacım: **veriden anlamlı içgörüler üretmek.**
 
 ---
 
-## 📈 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanculluk&show_icons=true&hide_title=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanculluk&layout=compact&theme=graywhite)
-
----
-
 ## 🔗 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
